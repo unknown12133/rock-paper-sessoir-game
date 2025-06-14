@@ -107,13 +107,13 @@ position: relative;
   font-size: 1.6rem;
 }
 .alert{
-  top:-30vh;
+  top:-35vh;
 }
 .lose{
-  top:-46vh;
+  top:-35vh;
 }
 .win{
-  top:-46vh;
+  top:-35vh;
 }
 .sysName{
   color: azure;
